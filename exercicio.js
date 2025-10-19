@@ -3,11 +3,17 @@
 Escreva uma  função 'add' que recebe dois números como parâmetros e retorna a soma deles
 imprima o resultado da soma dos dois números de exemplo usando 'console.log' */
 
-function add(num1, num2){
-    soma = num1+num2
-    console.log(soma);
-}
-add(120, 63);
+// function add(num1, num2){
+//     soma = num1+num2
+//     console.log(soma);
+// }
+// add(120, 63);
+
+//Exercicio 2
+/* Crie um arquivo `hello.js` que imprime "hello Growdevers". 
+Adicione um script chamado `runHello` no package.json para executar o `hello.js`.
+Execute o script criado.
+*/
 
 
 
